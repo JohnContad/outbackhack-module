@@ -21,9 +21,9 @@ A laptop with the Arduino IDE installed
 
 Outback Hack is composed of three primary modules, each covering one particular aspect of programming.
 
-1.) The Arduino Board - What is programming?
+1.) [The Arduino Board - What is programming?](https://github.com/OutbackHack/outbackhack-module/blob/master/1-1-Programming.md)
 
-2.) Sensor modules - What are inputs? What does it mean to have an output for your program?
+2.) [Sensor modules - What are inputs? What does it mean to have an output for your program?](https://github.com/OutbackHack/outbackhack-module/blob/master/2-1-Coding-and-Inputs.md)
 
 3.) LEDs - What are parameters and thresholds? How do we make our output useful?
 
